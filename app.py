@@ -35,5 +35,3 @@ else:
         show_kpis()
     elif menu == "Export":
         export_data(df)
-    elif menu == "AI Explainer":
-        run_ai_explainer()
